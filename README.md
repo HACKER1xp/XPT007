@@ -1,4 +1,4 @@
-# ⊱⋕⊰ FARHAN ⊱⋕⊰
+# ⊱⋕⊰ XP-TRICKER ⊱⋕⊰
 
 pkg update
 
